@@ -1,3 +1,10 @@
+
+# MAT-156
+# Helen Carolina CAstillo Mamani
+# 25/08/2022
+
+# Desafio 4 solución problema del paracaidista
+
 # Se importan las librerias para graficar
 import matplotlib.pyplot as plt
 
